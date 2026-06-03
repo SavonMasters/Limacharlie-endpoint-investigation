@@ -32,7 +32,7 @@ Now I initiated metaspoilt instructing msconsole to fix a reverse_tcp to my host
 
 
 
-![image alt](https://github.com/SavonMasters/Limacharlie-endpoint-investigation/blob/e445a5789cbbd363ff8df754753b027e5fd4255a/Screenshot%20(9).png)
+![image alt](https://github.com/SavonMasters/Limacharlie-endpoint-investigation/blob/54c40e1ac968a9f6989ccce4e5bb06b0c187c8e7/Screenshot%202026-05-26%20191423.png)
 ![image alt](https://github.com/SavonMasters/Limacharlie-endpoint-investigation/blob/a9be82dda37355f6c60591ff3a5113cd37b0b516/Screenshot%202026-05-26%20191458.png)
 ![image alt](https://github.com/SavonMasters/Limacharlie-endpoint-investigation/blob/118e10a5ce64b110c7677bee8428aed17789bbd3/Screenshot%202026-05-26%20191543.png)
 ![image alt](https://github.com/SavonMasters/Limacharlie-endpoint-investigation/blob/e9ca6a8fa83d500130a602d10eab7695367825e7/Screenshot%20from%202026-05-26%2019-17-12.png)
