@@ -40,8 +40,7 @@ I was told information that a process going by the name of “Systemfiles.elf”
 
 
 
-
-
+![image alt](https://github.com/SavonMasters/Limacharlie-endpoint-investigation/blob/c05f613833a406b7fedb7b0367d523d38b19941a/Screenshot%20from%202026-05-29%2018-22-12.png)
 I gave “Mimipenguin” an opportunity to dump credentials; none were found even so I created a detection and response rule as a warning wall to alert if the exploit is used and it stated there was one into my feed. 
 
 
