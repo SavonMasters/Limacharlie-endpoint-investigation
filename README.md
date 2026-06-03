@@ -20,7 +20,7 @@ That attacks that remain on the endpoint are an issue to the device and the user
 I configured and downloaded Limacharlie Endpoint detection and response to my Linux host and impersonated an attacker actions with my own commands, and a pack of security tools titled “NMAP”, “Metasploit”, and “Mimipenguin”.
 
 
-
+![image alt](https://github.com/SavonMasters/Limacharlie-endpoint-investigation/blob/f6ec915dc46026d32bd6195a15c7eb05d1df3907/Screenshot%20from%202026-05-25%2018-14-39.png)
 I set up a port scan on my host with the command “nmap -p 21,22,23,25,53,80,443” and changing up to Limacharlie I was able to see the command being ran with the timeline feature. 
 
 
