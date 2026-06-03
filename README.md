@@ -32,7 +32,7 @@ Now I initiated metaspoilt instructing msconsole to fix a reverse_tcp to my host
 
 
 
-
+![image alt](https://github.com/SavonMasters/Limacharlie-endpoint-investigation/blob/e445a5789cbbd363ff8df754753b027e5fd4255a/Screenshot%20(9).png)
 I was told information that a process going by the name of “Systemfiles.elf” was downloaded. I went to processes in Limacharlie and could evaluate it, in that location I found the process ID “16175”, file path “/home/vboxuser/Systemfiles.elf”, command line “./Systemfile.elf” and network connection that developed it “Source IP address 127.0.0.1.44446 Destination IP address 127.0.0.1.4444”. My redemeditation technique was to kill the process and the reverse_tcp connection tells the user that the process was killed in msfvenom.
 
 
