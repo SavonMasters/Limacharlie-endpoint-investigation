@@ -15,6 +15,7 @@ That attacks that remain on the endpoint are an issue to the device and the user
 
 ![image alt](https://github.com/SavonMasters/Limacharlie-endpoint-investigation/blob/591454cdafb8f7f20d1a70270a640687256c1396/Screenshot%20(7).png)
 ![image alt](https://github.com/SavonMasters/Limacharlie-endpoint-investigation/blob/ae9e49c9675419d53ca32d4ecf146bf5d9ecf41c/Screenshot%20from%202026-05-26%2017-57-57.png)
+![image alt](https://github.com/SavonMasters/Limacharlie-endpoint-investigation/blob/43a45d409c00fa832717d39e71d72172cf1f69ae/Screenshot%20from%202026-05-29%2018-11-42.png)
 I configured and downloaded Limacharlie Endpoint detection and response to my Linux host and impersonated an attacker actions with my own commands, and a pack of security tools titled “NMAP”, “Metasploit”, and “Mimipenguin”.
 
 
